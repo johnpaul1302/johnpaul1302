@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnpaul1302
+- 👋 Hi, I’m john paul
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend development
 - ⚡ Fun fact: happiness is when your code runs without error!
